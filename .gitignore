@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Model checkpoints
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Training output artifacts
+results/
+results_learnable_weights/
+
+# Large model downloads (HuggingFace cache)
+.cache/
+
+# Benchmark output artifacts
+benchmark_output/
+benchmark_results*/
+benchmark_zerogpt_*/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
