@@ -5,8 +5,8 @@ This repository contains the implementation code and datasets for the paper:
 > **AEGIS: Preserving Academic Integrity via Graph Attention Networks for AI-Generated Text Detection**
 >
 > Abadila Alaktif, Meriyem Chergui, Faiq Gmira, Abdelkarim Ammoumou, Saadia Drissi
->
-> *Journal of Computer Science and Technology (JCST)*
+
+
 
 ## Overview
 
