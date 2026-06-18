@@ -162,7 +162,7 @@ Human writing exhibits richer local neighborhoods and sharper community boundari
 @article{alaktif2026aegis,
   title={AEGIS: Preserving Academic Integrity via Graph Attention Networks for AI-Generated Text Detection},
   author={Alaktif, Abadila and Chergui, Meriyem and Gmira, Faiq and Ammoumou, Abdelkarim and Drissi, Saadia},
-  journal={Journal of Computer Science and Technology},
+  journal={-},
   year={2026}
 }
 ```
